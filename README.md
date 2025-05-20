@@ -24,7 +24,13 @@
   *Gongbo Zhang, Yanting Li, Renqian Luo, Pipi Hu, Zeru Zhao, Lingbo Li, Guoqing Liu, Zun Wang, Ran Bi, Kaiyuan Gao, Liya Guo, Yu Xie, Chang Liu, Jia Zhang, Tian Xie, Robert Pinsler, Claudio Zeni, Ziheng Lu, Yingce Xia, Marwin Segler, Maik Riechert, Li Yuan, Lei Chen, Haiguang Liu, Tao Qin*  
   [[arXiv:2503.06687]](https://arxiv.org/abs/2503.06687)
 
-### **3. Bandit Learning**
+### **3. Reasoning**
+- **DGRO: Enhancing LLM Reasoning via Exploration-Exploitation Control and Reward Variance Management**  
+  *Xuerui Su†, Liya Guo†, Yue Wang, Yi Zhu, Zhiming Ma, Zun Wang, Yuting Liu*  
+  († Equal contribution)
+  [[arXiv:2505.12951]]([https://arxiv.org/abs/2505.12951])
+
+### **4. Bandit Learning**
 - **Which LLM to Play? Convergence-Aware Online Model Selection with Time-Increasing Bandits**  
   *Yu Xia, Fang Kong, Tong Yu, Liya Guo, Ryan A. Rossi, Sungchul Kim, Shuai Li*, 2024, WWW  
   [[arXiv:2403.07213]](https://arxiv.org/abs/2403.07213)
