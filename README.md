@@ -28,7 +28,7 @@
 - **DGRO: Enhancing LLM Reasoning via Exploration-Exploitation Control and Reward Variance Management**  
   *Xuerui Su†, Liya Guo†, Yue Wang, Yi Zhu, Zhiming Ma, Zun Wang, Yuting Liu*  
   († Equal contribution)
-  [[arXiv:2505.12951]]([https://arxiv.org/abs/2505.12951])
+  [[arXiv:2505.12951]](https://arxiv.org/abs/2505.12951)
 
 ### **4. Bandit Learning**
 - **Which LLM to Play? Convergence-Aware Online Model Selection with Time-Increasing Bandits**  
